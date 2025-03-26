@@ -43,11 +43,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=ABYSS-303&show_icons=true&theme=radical" width="400px" />
 </p>
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABYSS-303&layout=compact&theme=radical" width="400px" />
 </p>
 
