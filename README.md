@@ -8,12 +8,12 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m working on **Jarsoft & XTool**  
-- 🌱 Currently learning **AI Integration, Full-stack Web Development**  
-- 💡 Interested in **Backend Development, Automation, AI, Cybersecurity**  
-- 🎸 Love **Rock music, Anime, Manga, Tech**  
-- 💬 Ask me about **Python, Backend, Databases, APIs**  
-- 📫 Reach me at **mq.rudyy.08@gmail.com**  
+- 🔭 I’m working on **Jarsoft **  
+- 🌱 Currently learning ** Full-stack Web Development**  
+- 💡 Interested in **Frontend,  Development, Automation, **  
+- 🎸 Love **lofi music, Anime, Manga, Tech**  
+- 💬 Ask me about **Python, Frontend**  
+- 📫 Reach me at **nguyenthevinh30032008@gmail.com**  
 
 ---
 
