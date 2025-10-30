@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm ABYSS-303 👋</h1>
+<h1 align="center">Hi there, I'm ABYSS 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Software+Developer;Anime+%2F+Manga+Lover;High+School+Student" alt="Typing SVG" />
